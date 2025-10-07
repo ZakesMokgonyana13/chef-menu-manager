@@ -76,7 +76,7 @@ VS Code for coding and testing
 🎬 Demonstration Video
 
 A short video shows how dishes are added, listed, and removed.
-(Add your YouTube link here)
+https://youtube.com/shorts/1ti3FP6_E9M?si=OgxlXn-_e7UwISab
 
 📂 Repository Structure
 chef-menu-manager/
